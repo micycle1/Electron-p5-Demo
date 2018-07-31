@@ -3,7 +3,6 @@
 ###### A simple example showing how Electron and p5.js may be integrated.
 
 ***
-<br><br>
 
 ## Installing & Running
 ##### 1. Clone this repository
@@ -17,6 +16,7 @@
 
 ## Result
 <img src="/screenshot.png">
+
 ***
 
 [p5 sketch runnable online here.](https://codepen.io/kilianso/pen/dMpbbg)
