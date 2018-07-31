@@ -1,0 +1,15 @@
+{
+    "name": "p5Electron",
+    "version": "0.1.0",
+    "description": "An example of using p5 and Electron.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^2.0.5"
+    },
+    "dependencies": {
+        "p5": "^0.6.1"
+    }
+}
