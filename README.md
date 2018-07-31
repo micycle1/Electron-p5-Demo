@@ -15,7 +15,7 @@
 
 
 ## Result
-<img src="/screenshot.png">
+<img src="/screenshot.png" alt="alt text" width="524" height="395">
 
 ***
 
